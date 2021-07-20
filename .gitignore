@@ -3,3 +3,14 @@
 ################################################################################
 
 /.vs/MVCAngular
+/ApplicationCore/bin/Debug
+/ApplicationCore/obj/Debug
+/DomainModels/bin/Debug
+/DomainModels/obj/Debug
+/packages
+/Repository/bin/Debug
+/Repository/obj/Debug
+/Service/bin
+/Service/obj/Debug
+/UI/bin
+/UI/obj/Debug
